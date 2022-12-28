@@ -228,7 +228,7 @@ Cuando un Mai Jini entra en combate debe centrarse en controlar sus pulsaciones 
 ##### Sinapsis
 Los Mai Jinis son bien conocidos por su ferocidad en batalla, sin embargo, el arma secreta de un 
 
-| Nivel | Mejora |
+| Nivel | Mejoras |
 |:----:|:------------|
 | 1st  | Concentración |
 | 2nd  | Metereosensibilidad |
